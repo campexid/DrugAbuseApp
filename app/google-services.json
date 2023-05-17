@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "634960350349",
+    "project_id": "drugabuseapp-24a1d",
+    "storage_bucket": "drugabuseapp-24a1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634960350349:android:948dfbfc5c4f8cacd2a6c4",
+        "android_client_info": {
+          "package_name": "com.example.drugabuseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634960350349-dplndf7cm7c3ee9jirle0mloiivvfa0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKOdt3sOshIDjnvLXpc7PLWRnSPlwEQJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "634960350349-dplndf7cm7c3ee9jirle0mloiivvfa0g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
