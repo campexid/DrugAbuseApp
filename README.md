@@ -1,4 +1,4 @@
-# DrugAbuseApp
+# DrugAbuseApp with Firebase Database (Realtime Database)
 
 **This is for CEP CCIT FTUI Project (Mobile Development)**
 
